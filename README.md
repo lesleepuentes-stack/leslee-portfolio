@@ -24,3 +24,7 @@ Disfruto crear proyectos, aprender desarrollo web, dibujar y escribir.
 
 ## Contacto
 Correo:lesleepuentes@gmail.com
+
+## Certificados
+
+- Diplomas SENA
