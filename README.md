@@ -3,7 +3,7 @@
 💻 Estudiante de análisis y desarrollo de software  
 🎨 Me gusta dibujar personajes y diseños creativos  
 ✍️ También me gusta escribir historias, ideas y contenido creativo  
-📱 Proyecto actual: Umai Store  
+📱 Proyecto actual: Umai Store  y  the air  game
 📚 Aprendiz SENA buscando prácticas virtuales  
 
 ## Habilidades
